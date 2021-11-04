@@ -6,6 +6,6 @@ The HTML and CSS files contained in this project were modified to follow accesib
 
 ![Site screenshot 1](./Images/Screenshot-2.png)
 
-![Site link] (https://abimael1996.github.io/Refactoring-H-1/)
+Site Link: https://abimael1996.github.io/Refactoring-H-1/
 
 
